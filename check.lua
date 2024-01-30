@@ -7,7 +7,6 @@ local RaityColor =  {
     ["Uncommon"] = Color3.fromRGB(92, 140, 211),
     ["Rare"] =  Color3.fromRGB(140, 82, 255),
     ["Legendary"] = Color3.fromRGB(213, 43, 228) ,
-    ["Legendary"] =  Color3.fromRGB(238, 47, 50),
     ["Mythical"] =  Color3.fromRGB(238, 47, 50)
 }
 function GetRaity(color)
